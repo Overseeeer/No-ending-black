@@ -34,3 +34,7 @@ $ C:\Users\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\S
 </ul>
 
 <hr>
+
+<h3><b>SIDENOTE</b></h3>
+
+<p>O programa não funciona... ainda.</p>
