@@ -31,10 +31,11 @@ $ C:\Users\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\S
 
 </p>
 </li>
-</ul>
 
 <hr>
+<li>
+<h3><b>SIDE-NOTE</b></h3>
 
-<h3><b>SIDENOTE</b></h3>
-
-<p>O programa não funciona... ainda.</p>
+<p>Agora o script deve funcionar corretamente ;)</p>
+</li>
+</ul>
